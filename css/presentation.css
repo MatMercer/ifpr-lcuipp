@@ -1,0 +1,11 @@
+.slide h1 {
+  font-size: 2.5em;
+}
+
+.deck-container .slide h2 {
+  color: #b00;
+}
+
+img.img-medium {
+	width: 50vw;
+}
