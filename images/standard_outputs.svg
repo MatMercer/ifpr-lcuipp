@@ -31,7 +31,96 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3572" />
+     id="defs3572">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4479"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4461"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4479-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-3-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4479-6-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-3-2-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4479-6-7-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-3-2-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4479-6-7-61"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -45,34 +134,29 @@
      inkscape:window-height="857"
      id="namedview3570"
      showgrid="false"
-     inkscape:zoom="3.5189542"
-     inkscape:cx="161.25"
-     inkscape:cy="95.625"
+     inkscape:zoom="2.4882764"
+     inkscape:cx="119.81049"
+     inkscape:cy="108.44663"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
-     inkscape:current-layer="graph0" />
+     inkscape:current-layer="node3-3" />
   <g
      id="graph0"
      class="graph"
      transform="scale(1 1) rotate(0) translate(4 149)">
     <title
        id="title3511">StandardStreams</title>
-    <polygon
-       fill="white"
-       stroke="none"
-       points="-4,4 -4,-149 254.393,-149 254.393,4 -4,4"
-       id="polygon3513" />
     <g
        id="clust1"
        class="cluster">
       <title
          id="title3516">clusterTerminal</title>
       <polygon
-         fill="lightgrey"
-         stroke="lightgrey"
          points="154.393,-8 154.393,-137 245.393,-137 245.393,-8 154.393,-8"
-         id="polygon3518" />
+         id="polygon3518"
+         stroke="lightgrey"
+         fill="lightgrey" />
       <text
          x="199.89301"
          y="-121.8"
@@ -87,11 +171,11 @@
       <title
          id="title3523">Keyboard</title>
       <path
-         fill="white"
-         stroke="black"
-         stroke-width="2"
          d="M222.393,-106C222.393,-106 176.393,-106 176.393,-106 170.393,-106 164.393,-100 164.393,-94 164.393,-94 164.393,-82 164.393,-82 164.393,-76 170.393,-70 176.393,-70 176.393,-70 222.393,-70 222.393,-70 228.393,-70 234.393,-76 234.393,-82 234.393,-82 234.393,-94 234.393,-94 234.393,-100 228.393,-106 222.393,-106"
-         id="path3525" />
+         id="path3525"
+         stroke-width="2"
+         stroke="black"
+         fill="white" />
       <text
          x="199.39301"
          y="-84.300003"
@@ -102,48 +186,25 @@
     <!-- Process -->
     <g
        id="node3"
-       class="node">
+       class="node"
+       transform="translate(3.3516783,-64.662235)">
       <title
          id="title3530">Process</title>
       <ellipse
-         fill="none"
-         stroke="black"
-         cx="37.6967"
+         cx="37.390072"
          cy="-50"
-         rx="37.8943"
+         rx="37.894299"
          ry="18"
-         id="ellipse3532" />
+         id="ellipse3532"
+         style="fill:none;stroke:#000000" />
       <text
          x="37.696701"
          y="-46.299999"
          font-size="14.00"
          id="text3534"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle">Processo</text>
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">ls</text>
     </g>
     <!-- Keyboard&#45;&gt;Process -->
-    <g
-       id="edge1"
-       class="edge">
-      <title
-         id="title3537">Keyboard-&gt;Process</title>
-      <path
-         fill="none"
-         stroke="black"
-         d="M164.294,-80.4402C143.727,-75.8222 117.019,-69.7227 93.3933,-64 89.3207,-63.0135 85.083,-61.9661 80.8489,-60.9056"
-         id="path3539" />
-      <polygon
-         fill="black"
-         stroke="black"
-         points="81.608,-57.4875 71.0552,-58.4299 79.8925,-64.274 81.608,-57.4875"
-         id="polygon3541" />
-      <text
-         text-anchor="middle"
-         x="118.893"
-         y="-79.8"
-         font-family="Times,serif"
-         font-size="14.00"
-         id="text3543">#0 stdin</text>
-    </g>
     <!-- Display -->
     <g
        id="node2"
@@ -151,11 +212,11 @@
       <title
          id="title3546">Display</title>
       <path
-         fill="white"
-         stroke="black"
-         stroke-width="2"
          d="M216.893,-52C216.893,-52 181.893,-52 181.893,-52 175.893,-52 169.893,-46 169.893,-40 169.893,-40 169.893,-28 169.893,-28 169.893,-22 175.893,-16 181.893,-16 181.893,-16 216.893,-16 216.893,-16 222.893,-16 228.893,-22 228.893,-28 228.893,-28 228.893,-40 228.893,-40 228.893,-46 222.893,-52 216.893,-52"
-         id="path3548" />
+         id="path3548"
+         stroke-width="2"
+         stroke="black"
+         fill="white" />
       <text
          x="199.39301"
          y="-30.299999"
@@ -164,52 +225,85 @@
          style="font-size:14px;font-family:Times, serif;text-anchor:middle">Monitor</text>
     </g>
     <!-- Process&#45;&gt;Display -->
-    <g
-       id="edge2"
-       class="edge">
-      <title
-         id="title3553">Process-&gt;Display</title>
-      <path
-         fill="none"
-         stroke="black"
-         d="M74.9343,-46.3694C100.169,-43.841 133.788,-40.4728 159.571,-37.8896"
-         id="path3555" />
-      <polygon
-         fill="black"
-         stroke="black"
-         points="160.138,-41.3504 169.739,-36.8709 159.44,-34.3853 160.138,-41.3504"
-         id="polygon3557" />
-      <text
-         text-anchor="middle"
-         x="118.893"
-         y="-48.8"
-         font-family="Times,serif"
-         font-size="14.00"
-         id="text3559">#1 stdout</text>
-    </g>
     <!-- Process&#45;&gt;Display -->
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80120939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 149.91434,-89.690135 82.975259,-110.18169"
+       id="path4452"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80120939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3)"
+       d="m 40.547812,-96.857304 0,38.179874"
+       id="path4452-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <g
-       id="edge3"
-       class="edge">
+       id="node3-3"
+       class="node"
+       transform="translate(3.0450501,-3.8432226)">
       <title
-         id="title3562">Process-&gt;Display</title>
-      <path
-         fill="none"
-         stroke="black"
-         d="M60.3183,-35.3996C69.9948,-29.7139 81.8156,-23.8794 93.3933,-21 114.948,-15.6393 139.567,-18.2434 159.546,-22.4839"
-         id="path3564" />
-      <polygon
-         fill="black"
-         stroke="black"
-         points="158.996,-25.9496 169.531,-24.8171 160.589,-19.1333 158.996,-25.9496"
-         id="polygon3566" />
+         id="title3530-5">Process</title>
+      <ellipse
+         cx="37.696701"
+         cy="-34.222309"
+         rx="37.894299"
+         ry="18"
+         id="ellipse3532-6"
+         style="fill:none;stroke:#000000" />
       <text
-         text-anchor="middle"
-         x="118.893"
-         y="-24.8"
-         font-family="Times,serif"
+         x="37.696701"
+         y="-30.522308"
          font-size="14.00"
-         id="text3568">#2 stderr</text>
+         id="text3534-2"
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">xargs cat</text>
     </g>
+    <text
+       x="63.215839"
+       y="-67.989861"
+       font-size="14.00"
+       id="text3534-2-9-1"
+       style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#1 stdout</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80120939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3-2)"
+       d="m 74.230348,-30.133701 75.668532,10.166418"
+       id="path4452-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="102.86547"
+       y="-15.706611"
+       font-size="14.00"
+       id="text3534-2-9-1-9"
+       style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#1 stdout</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80120939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3-2-3)"
+       d="m 63.606631,-98.502153 c 21.355748,26.609155 45.736169,49.273082 86.616319,50.415626"
+       id="path4452-7-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="113.49127"
+       y="-72.055511"
+       font-size="14.00"
+       id="text3534-2-9-1-6"
+       style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#2 stderr</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80120939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3-2-2)"
+       d="m 78.918134,-37.503489 71.804616,8.878435"
+       id="path4452-7-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="109.63085"
+       y="-37.28019"
+       font-size="14.00"
+       id="text3534-2-9-1-6-7"
+       style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#2 stderr</text>
+    <text
+       x="119.93114"
+       y="-106.50883"
+       font-size="14.00"
+       id="text3534-2-9-1-92"
+       style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#0 stdin</text>
   </g>
 </svg>
