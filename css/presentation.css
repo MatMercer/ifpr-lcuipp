@@ -48,31 +48,31 @@ img.max-width:-ms-fullscreen {
     margin:auto !important;
 }
 
-img.max-width:full-screen {
+img.max-height:full-screen {
     object-fit: contain;
-    width: 100% !important;
-    height: auto !important;
+    height: 100% !important;
+    width: auto !important;
     margin:auto !important;
 }
 
-img.max-width:-webkit-full-screen {
+img.max-height:-webkit-full-screen {
     object-fit: contain;
-    width: 100% !important;
-    height: auto !important;
+    height: 100% !important;
+    width: auto !important;
     margin:auto !important;
 }
 
-img.max-width:-moz-full-screen {
+img.max-height:-moz-full-screen {
     object-fit: contain;
-    width: 100% !important;
-    height: auto !important;
+    height: 100% !important;
+    width: auto !important;
     margin:auto !important;
 }
 
-img.max-width:-ms-fullscreen {
+img.max-height:-ms-fullscreen {
     object-fit: contain;
-    width: 100% !important;
-    height: auto !important;
+    height: 100% !important;
+    width: auto !important;
     margin:auto !important;
 }
 
