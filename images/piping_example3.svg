@@ -18,7 +18,7 @@
    id="svg3508"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="standard_outputs.svg">
+   sodipodi:docname="piping_example3.svg">
   <metadata
      id="metadata3574">
     <rdf:RDF>
@@ -27,6 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -130,14 +131,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="796"
+     inkscape:window-width="1596"
      inkscape:window-height="857"
      id="namedview3570"
      showgrid="false"
      inkscape:zoom="2.4882764"
-     inkscape:cx="59.72874"
-     inkscape:cy="108.44663"
-     inkscape:window-x="800"
+     inkscape:cx="126.0397"
+     inkscape:cy="84.735438"
+     inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
      inkscape:current-layer="graph0" />
@@ -202,7 +203,7 @@
          y="-46.299999"
          font-size="14.00"
          id="text3534"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle">ls</text>
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">fortune</text>
     </g>
     <!-- Keyboard&#45;&gt;Process -->
     <!-- Display -->
@@ -255,8 +256,14 @@
          y="-30.522308"
          font-size="14.00"
          id="text3534-2"
-         style="font-size:14px;font-family:Times, serif;text-anchor:middle">xargs cat</text>
+         style="font-size:14px;font-family:Times, serif;text-anchor:middle">cowsay</text>
     </g>
+    <text
+       x="17.6735"
+       y="-87.953476"
+       font-size="14.00"
+       id="text3534-2-9-1"
+       style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#1 stdout</text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80120939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3-2)"
        d="m 74.230348,-30.133701 75.668532,10.166418"
@@ -300,14 +307,8 @@
        id="text3534-2-9-1-92"
        style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#0 stdin</text>
     <text
-       x="17.859133"
-       y="-87.260292"
-       font-size="14.00"
-       id="text3534-2-9-1"
-       style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#1 stdout</text>
-    <text
-       x="20.777918"
-       y="-68.486282"
+       x="20.592285"
+       y="-69.179466"
        font-size="14.00"
        id="text3534-2-9-1-92-0"
        style="font-size:10.94587231px;font-family:Times, serif;text-anchor:middle">#0 stdin</text>

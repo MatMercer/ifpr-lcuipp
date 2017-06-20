@@ -91,3 +91,11 @@ img {
  background: -o-linear-gradient(transparent, transparent);
  -webkit-background-clip: text;
 }
+
+.deck-container {
+    font-size: 2em !important;
+}
+
+ul {
+    font-size: 1.5em !important;
+}
